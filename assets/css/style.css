@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Crafty+Girls&family=Lilita+One&family=Lobster&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Raleway:ital,wght@0,300;1,300&family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html, body{
+    height: 100%;
+}
+
